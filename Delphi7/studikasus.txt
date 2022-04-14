@@ -1,0 +1,8 @@
+Kasus ini menjelaskan mengenai perkiraan jumlah permintaan ban selama 100 hari.
+1.Pertama membuat angka random sebanyak 100 dengan range 0 sampai 5.
+2.Angka 0 - 5 merupakan jumlah permintaan ban setiap hari yaitu paling sedikit 0 
+dan paling banyak 5 dan akan dihitung nilai frekuensinya.
+3.Setelah mendapatkan nilai frekuensi selanjutnya menghitung nilai Probability, 
+Komulatif, dan Interval.
+4. Membuat simulasi sebanyak 10 hari dengan angka random 0 sampai 100 dan akan 
+dilihat perkiraan permintaan ban per hari.
